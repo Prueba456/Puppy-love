@@ -1,0 +1,13 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#principal-imagen{
+  width: 100%;
+}
+.height-principal{
+  height: 600px;
+  width: 100%;
+  overflow-y: hidden;
+}
