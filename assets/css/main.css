@@ -120,32 +120,32 @@ width: 100%;
   color: white;
 }
 .purple1{
-  background-color: rgba(129, 122, 179, 1);
+  background-color: rgb(124, 111, 158);
 }
 .purple2{
-  background-color: rgba(106, 101, 153  , 1);
-  padding: 70px;
+  background-color: rgb(119, 102, 164);
+  padding: 60px;
 }
 .purple3{
-  background-color: rgba(99, 92, 139, 1);
-  padding: 70px;
+  background-color: rgb(124, 103, 182);
+  padding: 60px;
 }
 .purple4{
-  background-color: rgba(89, 82, 129, 1);
-  padding: 70px;
+  background-color: rgb(117, 92, 186);
+  padding: 60px;
 }
 .purple5{
-  background-color: rgba(70, 69, 99, 1);
-  padding: 70px;
+  background-color: rgb(96, 73, 158);
+  padding: 60px;
 }
 .purple6{
-  background-color: rgba(129, 122, 79, 1);
-  padding: 70px;
+  background-color: rgb(86, 67, 140);
+  padding: 60px;
 }
 .purple7{
-  background-color: rgba(129, 122, 59, 1);
-  padding: 70px;
+  background-color: rgb(76, 57, 125);
+  padding: 60px;
 }
 .col-xs-6{
-  height: 300px;
+  height: 250px;
 }
