@@ -3,11 +3,26 @@
   margin: 0;
   box-sizing: border-box;
 }
-#principal-imagen{
-  width: 100%;
-}
+
 .height-principal{
-  height: 600px;
-  width: 100%;
-  overflow-y: hidden;
+  background-image: url(../img/banner.jpg);
+      background-size: 100%;
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+      height: 100vh;
+      width: 100vw;
+      position: absolute;
+      background-attachment: fixed;
+}
+.height-plomo{
+  background: rgba(55, 62, 56, 0.81);
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+.height-prueba{
+  position: relative;
+height: 500px;
+width: 100%;
+background-color: blue;
 }
